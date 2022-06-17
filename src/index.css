@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.homeDiv {
+    width: 300px;
+    min-height: 40vh;
+    margin: 20px auto;
+    background: linear-gradient(rgb(240, 222, 222), rgb(210, 142, 142));
+    padding: 20px;
+}
+
+input {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+    height: 33px;
+    padding: 0 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #fff;
+    font-weight: 600;
+
+}
